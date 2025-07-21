@@ -9,3 +9,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matheus-Broring/Matheus-Broring/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Matheus-Broring/Matheus-Broring/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div>
+ <img align="center" alt="gif" src="https://cdn.dicionariopopular.com/imagens/numero-nove.gif" >
+ <img align="center" alt="gif" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHcwd3dhbnN0cmphNmdtZzF4OHF2OGxsazAzNTA5a3pvZnZ2OG1sZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUOrwihszfWZgSIHJK/giphy.gif" > 
+</div>
