@@ -1,6 +1,6 @@
 ## Olá pessoal eu sou o Matheus-Broring 👋
 
-- 🔭 Atualmente estou no 2º ano do curso de informática para a internet do IFPR
+- 🔭 Atualmente estou no 2º ano do curso tácnico de informática para a internet do IFPR
 - 🌱 Atualmente estudando Python
 - ⚡ Fatos enraçados: Não sei o que colocar
 
